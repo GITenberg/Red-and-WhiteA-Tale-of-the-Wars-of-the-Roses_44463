@@ -1,0 +1,27 @@
+_repo: Red-and-WhiteA-Tale-of-the-Wars-of-the-Roses_44463
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44463-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Holt, Emily Sarah
+    birthdate: 1836
+    deathdate: 1893
+    gutenberg_agent_id: '9787'
+    url: http://www.gutenberg.org/2009/agents/9787
+description: ''
+gutenberg_issued: '2013-12-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44463'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcc 'PR'
+- !lcsh 'Great Britain -- History -- Wars of the Roses, 1455-1485 -- Fiction'
+title: 'Red and White: A Tale of the Wars of the Roses'
+url: http://www.gutenberg.org/ebooks/44463
